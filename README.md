@@ -1,9 +1,13 @@
-Hello World!
+Hello Everybody!
 
-Aspiring computer programmer and game developer. 
+I am an inspriring programmer and game developer!
+I am currently a rookie on FRC Team 8738 SLICE and am I member of the Scouting/Strategy and Programming Subteams
+- I am currently learning WPILIB Java Code to become a bigger part of our coding subteam.
 
-Languages I use:
-* Python
-* C#
+
+The Programming Languages That I Use Are:
 * Java
-* I'm learning to develop games in Unity Game Engine!
+* C#
+* Python
+
+I currently don't have any public repositories, but I have contributed to multiple repositories for 8738 SLICE
