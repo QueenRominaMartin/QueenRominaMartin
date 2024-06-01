@@ -10,4 +10,4 @@ The Programming Languages That I Use Are:
 * C#
 * Python
 
-I currently don't have any public repositories, but I have contributed to multiple repositories for 8738 SLICE
+I currently don't have any personal public repositories, but I have contributed to multiple repositories for 8738 SLICE
