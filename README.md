@@ -1,13 +1,8 @@
-Hello Everybody!
+2/2/2026
+God I haven't updated this in a long time
 
-I am an inspriring programmer and game developer!
-I am currently a rookie on FRC Team 8738 SLICE and am I member of the Scouting/Strategy and Programming Subteams
-- I am currently learning WPILIB Java Code to become a bigger part of our coding subteam.
+Hello everyone!! I am Romi, a transfem programmer (yes I am a stereotype)
 
+I am a member of the FRC Team 8738 SLICE, and have been the software lead these past two seasons. You can find all our open source code under the organization profile
 
-The Programming Languages That I Use Are:
-* Java
-* C#
-* Python
-
-I currently don't have any personal public repositories, but I have contributed to multiple repositories for 8738 SLICE
+I am also an aspiring game dev. I also remake old classic games in Java. Why? Idk please send help
